@@ -17,7 +17,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/fares-sonar" target="_blank"><img src="https://img.shields.io/badge/-Fares%20Sonar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/faressonar" target="_blank"><img src="https://img.shields.io/badge/-Fares%20Sonar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/FaresSonar" target="_blank"><img src="https://img.shields.io/badge/-Fares%20Sonar-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
